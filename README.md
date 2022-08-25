@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there! 👋 Welcome to my repo :octocat:
+:eyes: I am currently seeking entry level software developer roles.
 
+:mortar_board: I have recently graduated from University of North Carolina at Greensboro with a Bachelor of Science in Computer Science.
+
+:globe_with_meridians: Check out [my website](https://alan-choi.github.io) for more information about me!
+    
+    
 <!--
 **Alan-Choi/Alan-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
