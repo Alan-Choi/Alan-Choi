@@ -1,9 +1,9 @@
 ### Hi there! 👋 Welcome to my repo :octocat:
-:eyes: I am currently seeking entry level software developer roles.
+<!-- :eyes: I am currently seeking entry level software developer roles. -->
 
 :mortar_board: I have recently graduated from University of North Carolina at Greensboro with a Bachelor of Science in Computer Science.
 
-I am an aspiring software engineer with a passion for creating innovative solutions to complex problems. I am eager to apply my knowledge and kickstart my professional journey.
+I am a software engineer with a passion for creating innovative solutions to complex problems.
 
 :globe_with_meridians: Check out [my website](https://alan-choi.github.io) to learn more about me!
     
